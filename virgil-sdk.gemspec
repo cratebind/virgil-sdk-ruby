@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = '>= 2.2.0'
   spec.add_runtime_dependency "virgil-crypto", "~> 2.3.0"
-  spec.add_runtime_dependency "faraday", "~> 0.10.0"
+  spec.add_runtime_dependency "faraday", "~> 0.12.0"
   spec.add_runtime_dependency "faraday_middleware", "~> 0.10.0"
   spec.add_runtime_dependency "yard", "~> 0.9.8"
   spec.add_development_dependency "bundler", "~> 1.12"
